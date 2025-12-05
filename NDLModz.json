@@ -1,9 +1,9 @@
 {
   "showDialog": true,
   "appVersionCode": 1,
-  "messageText": "Oops! ⏰ This app has expired. Please update to the latest version.",
+  "messageText": "Vui Lòng Update App Để Sử Dụng Tiếp Ạ",
   "updateButtonText": "Update",
-  "updateButtonLink": "https://google.com",
+  "updateButtonLink": "https://t.me/NDLModzChannel",
   "updateButtonGradientStartColor": "#1E88E5",
   "updateButtonGradientEndColor": "#64B5F6",
   "cancelButtonText": "Cancel",
