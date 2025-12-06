@@ -1,5 +1,5 @@
 {
-  "showDialog": false,
+  "showDialog": true,
   "appVersionCode": 1,
   "messageText": "Vui Lòng Update App Để Sử Dụng Tiếp Ạ",
   "updateButtonText": "Update",
